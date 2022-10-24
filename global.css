@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-image: url('./img/film-bg/bg--the-dark-knight-rises.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    transition: all 1s ease;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+
+.container-padding{
+    padding: 2rem 3rem;
+}
